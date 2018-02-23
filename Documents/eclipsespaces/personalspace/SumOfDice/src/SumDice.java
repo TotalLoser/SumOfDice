@@ -5,6 +5,7 @@ import java.util.Scanner;
 //test
 public class SumDice
 {
+	// hoo hoo
 	public static void main(String[] args)
 	{
 		try
